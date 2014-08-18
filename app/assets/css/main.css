@@ -1,0 +1,8 @@
+/*code editor*/
+#ace-editor-container {
+	min-height: 400px;
+}
+/*set page wrapper to no padding when code editor is open*/
+#page-wrapper.editing {
+	padding:0;
+}

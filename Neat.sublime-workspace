@@ -1,0 +1,1187 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gre",
+				"seagreen"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"arrre",
+				"array_reverse"
+			],
+			[
+				"while",
+				"while	while …"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"forea",
+				"foreach	blade-foreach"
+			],
+			[
+				"cyc",
+				"cycle_day"
+			],
+			[
+				"menu",
+				"menu_id"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"Formsel",
+				"Form-selectRange	Form-selectRange"
+			],
+			[
+				"selec",
+				"selector"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"pro",
+				"prop"
+			],
+			[
+				"menus",
+				"MenusController"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"O",
+				"Object"
+			],
+			[
+				"itemtyp",
+				"itemtype-name"
+			],
+			[
+				"item",
+				"itemtype"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fo",
+				"foreach	blade-foreach"
+			],
+			[
+				"Menu",
+				"menu"
+			],
+			[
+				"menre",
+				"MenuRelated"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"post",
+				"postcode"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"reut",
+				"return_html"
+			],
+			[
+				"Input",
+				"Input-get	Input-get"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"assess",
+				"assessment_date"
+			],
+			[
+				"updated",
+				"updated_at"
+			],
+			[
+				"clie",
+				"client"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"Inpu",
+				"Input-all	Input-all"
+			],
+			[
+				"date",
+				"date_format"
+			],
+			[
+				"cli",
+				"client_id"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"phone",
+				"phone_numbers"
+			],
+			[
+				"on",
+				"on_new_line"
+			],
+			[
+				"serv",
+				"service"
+			],
+			[
+				"ser",
+				"service"
+			],
+			[
+				"fore",
+				"foreach	blade-foreach"
+			],
+			[
+				"service",
+				"service_slug"
+			],
+			[
+				"servi",
+				"services"
+			],
+			[
+				"foreach",
+				"foreach	blade-foreach"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"Routegr",
+				"Route-group	Route-group"
+			],
+			[
+				"homepage",
+				"homepage_id"
+			],
+			[
+				"systl",
+				"systemlog"
+			],
+			[
+				"Redi",
+				"Redirect-route	Redirect-route"
+			],
+			[
+				"COn",
+				"Config-get	Config-get"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"Log",
+				"Log-getMonolog	Log-getMonolog"
+			],
+			[
+				"foea",
+				"foreach	foreach …"
+			],
+			[
+				"r",
+				"ret	return"
+			],
+			[
+				"Valir",
+				"Validator"
+			],
+			[
+				"Val",
+				"Validator-make	Validator-make"
+			],
+			[
+				"contro",
+				"contractor"
+			],
+			[
+				"CONFI",
+				"Config-get	Config-get"
+			],
+			[
+				"vol",
+				"volunteer"
+			],
+			[
+				"volun",
+				"Volunteer"
+			],
+			[
+				"volunt",
+				"volunteer"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"bordol",
+				"border-color"
+			],
+			[
+				"inde",
+				"indigenous_status"
+			],
+			[
+				"INpu",
+				"Input-all	Input-all"
+			],
+			[
+				"INPU",
+				"Input-get	Input-get"
+			],
+			[
+				"run",
+				"run_id"
+			],
+			[
+				"itemt",
+				"itemtype_id"
+			],
+			[
+				"sele",
+				"selection"
+			],
+			[
+				"client",
+				"client"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"DB",
+				"DB-raw	DB-raw"
+			],
+			[
+				"cliet",
+				"client_id"
+			],
+			[
+				"to",
+				"today"
+			],
+			[
+				"selection",
+				"selections"
+			],
+			[
+				"clien",
+				"client"
+			],
+			[
+				"su",
+				"substr"
+			],
+			[
+				"order",
+				"orderBy"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"remove",
+				"remove-row"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"iner",
+				"insert_data"
+			],
+			[
+				"list",
+				"list_container"
+			],
+			[
+				"ava",
+				"available_client_list_names"
+			],
+			[
+				"new",
+				"newRecords"
+			],
+			[
+				"tar",
+				"target_to"
+			],
+			[
+				"appen",
+				"appendTo"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"chosen",
+				"chosen-select"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"arti",
+				"article"
+			],
+			[
+				"art",
+				"articles"
+			],
+			[
+				"TRa",
+				"Tracking"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"payment",
+				"payment_option"
+			],
+			[
+				"Confi",
+				"Config-get	Config-get"
+			],
+			[
+				"paypal",
+				"paypaltest"
+			],
+			[
+				"Rou",
+				"Route-get	Route-get"
+			],
+			[
+				"sea",
+				"search_result"
+			],
+			[
+				"Typ",
+				"type"
+			],
+			[
+				"confi",
+				"confirmed"
+			],
+			[
+				"capt",
+				"Captcha"
+			],
+			[
+				"page",
+				"page_order"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"Pl",
+				"playPause"
+			],
+			[
+				"opti",
+				"option"
+			],
+			[
+				"reciev",
+				"recieving"
+			],
+			[
+				"p",
+				"process"
+			],
+			[
+				"A",
+				"A1"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"gl",
+				"glyphicon-play"
+			],
+			[
+				"gli",
+				"glyphicon"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ro",
+				"rowspan	Attr"
+			],
+			[
+				"mea",
+				"meal_selection"
+			],
+			[
+				"meal",
+				"meal_selections"
+			],
+			[
+				"ITe",
+				"ItemType"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"CSS3: Insert normalize.css"
+			],
+			[
+				"res",
+				"CSS3: Insert Reset"
+			],
+			[
+				"norma",
+				"CSS3: Insert normalize.css"
+			],
+			[
+				"sass",
+				"CSS3: Insert normalize.css"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"bl",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"worde",
+				"Word Wrap: Toggle"
+			],
+			[
+				"bla",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"prol",
+				"Set Syntax: SWI-Prolog"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Set Syntax: SWI-Prolog"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lara",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"disc",
+				"Remote: Disconnect from Session"
+			],
+			[
+				"join",
+				"Floobits - Join Workspace"
+			],
+			[
+				"floo",
+				"Floobits - Open Workspace Settings (in Browser)"
+			],
+			[
+				"disco",
+				"Remote: Disconnect from Session"
+			],
+			[
+				"dis",
+				"Remote: Disconnect from Session"
+			],
+			[
+				"conn",
+				"Remote: Connect to Session"
+			],
+			[
+				"remot",
+				"Remote: Disconnect from Session"
+			],
+			[
+				"host",
+				"Remote: Host Session"
+			],
+			[
+				"hos",
+				"Remote: Host Session"
+			],
+			[
+				"schem",
+				"Set Syntax: Scheme"
+			],
+			[
+				"l",
+				"Set Syntax: Lisp"
+			],
+			[
+				"lis",
+				"Set Syntax: Lisp"
+			],
+			[
+				"lisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"ard",
+				"Set Syntax: Arduino"
+			],
+			[
+				"slq",
+				"Set Syntax: SQL"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"jsoin",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"arm",
+				"Set Syntax: ARM Assembly"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 89.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/neat/README.md",
+		"/C/wamp/www/base/app/sb-admin-2/index.html",
+		"/C/wamp/www/js/sb-admin-2/css/sb-admin-2.css",
+		"/C/wamp/www/base/app/assets/main.css",
+		"/C/wamp/www/base/ui.php",
+		"/C/wamp/bin/mysql/mysql5.6.17/my.ini",
+		"/C/wamp/www/base/.htaccess",
+		"/C/wamp/www/base/bootstrap.php",
+		"/C/wamp/www/base/Router.php",
+		"/C/wamp/www/mealsonwheels/public/assets/common/js/system.js",
+		"/C/wamp/www/mealsonwheels/app/models/Item.php",
+		"/C/wamp/www/mealsonwheels/public/assets/common/css/style.css",
+		"/C/wamp/www/mealsonwheels/app/models/Client.php",
+		"/C/wamp/www/mealsonwheels/app/controllers/ClientsController.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/menus/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/menus/edit.blade.php",
+		"/C/wamp/www/mealsonwheels/app/config/site.php",
+		"/C/wamp/www/mealsonwheels/app/models/Contractor.php",
+		"/C/wamp/www/mealsonwheels/app/controllers/MenusController.php",
+		"/C/wamp/www/mealsonwheels/app/models/MenuRelated.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/clients/show.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/otherclientactivities/create.blade.php",
+		"/C/wamp/www/mealsonwheels/app/helpers.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/runs/create.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/clients/create.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/clients/edit.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/clients/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/routes.php",
+		"/C/wamp/www/mealsonwheels/public/assets/admin/css/main.css",
+		"/C/wamp/www/mealsonwheels/sql/generic_items.sql",
+		"/C/wamp/www/mealsonwheels/public/assets/admin/js/script.js",
+		"/C/wamp/www/mealsonwheels/app/config/packages/cartalyst/sentry/config.php",
+		"/C/wamp/www/mealsonwheels/app/models/Run.php",
+		"/C/wamp/www/mealsonwheels/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Users/Eloquent/User.php",
+		"/C/wamp/www/mealsonwheels/vendor/cartalyst/sentry/src/Cartalyst/Sentry/Users/Eloquent/Provider.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/suppliers/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/pages/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/contractors/edit.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/otherclientactivities/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/accounttypes/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/items/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/itemtypes/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/volunteers/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/volunteertypes/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/employees/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/referrers/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/runs/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/contractors/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/pages/create.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/pages/edit.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/services/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/services/edit.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/services/create.blade.php",
+		"/C/wamp/www/mealsonwheels/app/models/SystemLog.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/systemlogs/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/dashboard/index.blade.php",
+		"/C/wamp/www/mealsonwheels/app/controllers/PagesController.php",
+		"/C/wamp/www/mealsonwheels/app/config/packages/edvinaskrucas/notification/config.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/_partials/header.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/_partials/navigation.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/site/services.blade.php",
+		"/C/wamp/www/mealsonwheels/app/models/Service.php",
+		"/C/wamp/www/mealsonwheels/app/models/Page.php",
+		"/C/wamp/www/mealsonwheels/app/views/site/service/page.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/site/_partials/navigation.blade.php",
+		"/C/wamp/www/mealsonwheels/app/controllers/ReferrersController.php",
+		"/C/wamp/www/mealsonwheels/app/models/Referrer.php",
+		"/C/wamp/www/mealsonwheels/app/controllers/ServicesController.php",
+		"/C/wamp/www/mealsonwheels/app/views/site/404.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/referrers/edit.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/site/_layouts/default.blade.php",
+		"/C/wamp/www/mealsonwheels/app/models/ServiceModel.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/_partials/tinymce.blade.php",
+		"/C/wamp/www/mealsonwheels/app/models/Setting.php",
+		"/C/wamp/www/mealsonwheels/public/filemanager/config/config.php",
+		"/C/wamp/www/mealsonwheels/app/controllers/SystemLogsController.php",
+		"/C/wamp/bin/apache/apache2.4.9/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/wamp/www/mealsonwheels/app/models/Supplier.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/suppliers/edit.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/items/create.blade.php",
+		"/C/wamp/www/mealsonwheels/app/config/app.php",
+		"/C/wamp/www/mealsonwheels/sql/mealsonwheels2014_08_04_001.sql",
+		"/C/wamp/www/mealsonwheels/app/views/admin/systemlogs/edit.blade.php",
+		"/C/wamp/www/mealsonwheels/app/models/ItemType.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/_partials/sidebar.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/systemlogs/create.blade.php",
+		"/C/wamp/www/mealsonwheels/app/exceptions/SystemLogException.php",
+		"/C/wamp/www/mealsonwheels/app/lang/en/exception.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/systemlogs/show.blade.php",
+		"/C/wamp/www/mealsonwheels/app/start/global.php",
+		"/C/wamp/www/mealsonwheels/app/exceptions/InvalidSystemLogLevelException.php",
+		"/C/wamp/www/mealsonwheels/composer.json",
+		"/C/wamp/www/mealsonwheels/sql/mealsonwheels_2014_07_24_001.sql",
+		"/C/wamp/www/mealsonwheels/app/views/admin/_partials/footer.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/_layouts/default.blade.php",
+		"/C/wamp/www/mealsonwheels/app/controllers/ReportsController.php",
+		"/C/wamp/www/mealsonwheels/app/models/Volunteer.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/contractors/create.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/volunteers/edit.blade.php",
+		"/C/wamp/www/mealsonwheels/app/models/VolunteerType.php",
+		"/C/wamp/www/mealsonwheels/app/controllers/VolunteersController.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/auth/login.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/reports/daily/labels.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/reports/daily/packingsheet.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/_partials/notifications.blade.php",
+		"/C/wamp/www/mealsonwheels/app/controllers/ItemTypesController.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/reports/daily/tallysheet.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/reports/daily/specialslist.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/reports/daily/runsheet.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/runs/deliveryorder.blade.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/reports/clients/list.blade.php",
+		"/C/wamp/www/mealsonwheels/app/models/MealPlan.php",
+		"/C/wamp/www/mealsonwheels/app/views/admin/reports/index.blade.php",
+		"/C/wamp/www/mealsonwheels/sql/mealsonwheels_09_07_2014_002.sql",
+		"/E/Downloads/Jarvis_s_Physical_Examination_and_Health-epub.acsm",
+		"/C/wamp/www/perl/comp315/testing/first.pl",
+		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1403934183/charliesheather.com/public_html/lab/windsong/app/models/Category.php",
+		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1403934102/charliesheather.com/public_html/lab/windsong/app/controllers/ShopController.php",
+		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1404109351/charliesheather.com/public_html/lab/windsong/app/views/site/_partials/footer.blade.php",
+		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1403939499/charliesheather.com/public_html/lab/windsong/app/views/site/_partials/navigation.blade.php",
+		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1403939471/charliesheather.com/public_html/lab/windsong/app/views/site/_partials/cartsummary.blade.php",
+		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1403938969/charliesheather.com/public_html/lab/windsong/app/config/site.php",
+		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1403936520/charliesheather.com/public_html/lab/windsong/app/views/site/_partials/header.blade.php",
+		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1404109624/charliesheather.com/public_html/lab/windsong/app/views/admin/pages/edit.blade.php",
+		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1403934341/charliesheather.com/public_html/lab/windsong/app/views/site/category.blade.php",
+		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1404198105/WindsongChimes/public_html/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\l4\\windsongchimes\\public\\assets",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/",
+			"ui",
+			"blog",
+			"config",
+			"this",
+			"value",
+			"item",
+			"instance",
+			"$config",
+			"::",
+			"static",
+			"static::",
+			"className",
+			"url",
+			"Route",
+			"RegexRouter",
+			"addMenuSummaryItem",
+			"buttons",
+			"sorted_menu",
+			"sortedButtons",
+			"item",
+			"menu_item_summary",
+			"Base64",
+			"Form",
+			"Input::get('itemtype_name')",
+			"item",
+			"Test",
+			"selected",
+			"default",
+			"col-md-6",
+			"btn-block",
+			"default",
+			"form-control",
+			"animation_time",
+			"setMenuSummary",
+			"highli",
+			"selector",
+			"multi",
+			"select",
+			"var checkboxes =",
+			"menu_start_date",
+			"h4",
+			"summary_item_lists.get(list)",
+			"[list]",
+			"\n								<label>\n									<input type=\"checkbox\">",
+			"Array",
+			"summary_list_items",
+			"menu_item_summary",
+			"key",
+			"getMenuSummary",
+			"selected_volunteer_list",
+			"checked",
+			"checkBoxes",
+			"col-sm",
+			"<input type=\"checkbox\" style=\"position: relative;top: 2px;margin-right:2px;\">",
+			"<input type=\"checkbox\" style=\"position: relative;top: 2px;margin-right:2px;\"> ",
+			"									</li>\n",
+			"									</li>",
+			"h3",
+			"menu_end_data",
+			"client",
+			"->format(Config::get('site.date_display.format'))",
+			"timestamp",
+			"id",
+			"menu_start_date",
+			"menu_state_date",
+			"date('d-m-Y')",
+			"date('d-m-Y') ",
+			"',",
+			"->with(",
+			"with",
+			"with(",
+			"client",
+			"required",
+			"digits",
+			")?",
+			"$menu",
+			"this",
+			"menu_start_date",
+			"assessment_date",
+			"disability_assessment",
+			"referrer_relationship",
+			"client",
+			"clients",
+			"this",
+			"md",
+			"oca_",
+			"selected_item_list",
+			"volunteer",
+			"other-activity",
+			"data-row=\"other-activity-items\"",
+			"updateSelectedItemList",
+			"updateSelectedVolunteerList",
+			"Volunteer",
+			"updateSelectedVolunteerList",
+			"volunteer",
+			"select-items-target",
+			"oca-item-list",
+			"oca_item_id",
+			"Client",
+			"Clients",
+			"client",
+			"Client",
+			"clients",
+			"$clients",
+			"form-actions ",
+			"Area Description",
+			"area_desc",
+			"Report Order",
+			"report_order",
+			"Run Name",
+			"run_name",
+			"menu.",
+			"Runs",
+			"runs",
+			"->service",
+			"Menu::",
+			"type",
+			"->",
+			"user_id",
+			"this",
+			"deleted_at",
+			"first_meal_delivery",
+			"true",
+			" + ' '",
+			" + '\\n'",
+			"name",
+			"checked"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pre",
+			"Action: service; Service: wampapache; ServiceAction:",
+			"Report",
+			"Orders",
+			"Order",
+			"account_type_id",
+			"accounttype",
+			"admin.accounttypes",
+			"Account Type",
+			"admin.accounttypes",
+			"$accounttype",
+			"admin.accounttypes",
+			"Account Type",
+			"account_type_id",
+			"accounttype",
+			"AccountType",
+			"Template"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"project": "Neat.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"syste",
+				"mealsonwheels\\public\\assets\\common\\js\\system.js"
+			],
+			[
+				"notification",
+				"vendor\\charliesheather\\notification\\src\\Krucas\\Notification\\Notification.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp\\www\\neat\\Neat.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"AbstractConnection"
+			]
+		],
+		"width": 808.0
+	},
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
