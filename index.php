@@ -1,4 +1,32 @@
 <?php
+/**
+* index.php
+*/
+/* 
+app structure
+
+/
+	index.php
+	config.php
+	.htaccess
+
+	app/
+		bootstrap.php
+		admin.php
+		404.php
+		Config.php
+		Router.php
+		DB.php
+
+		_partials/
+			navigation.php
+
+		assets/
+			css/
+			js/
+			fonts/
+
+*/
 namespace App;
 
 require_once 'app/bootstrap.php';
