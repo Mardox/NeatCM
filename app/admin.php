@@ -48,8 +48,8 @@
 		<!-- Page Content -->
 		<div id="page-wrapper" class="editing">
 <div id="ace-editor-container">function foo(items) {
-    var x = "All this is syntax highlighted";
-    return x;
+	var x = "All this is syntax highlighted";
+	return x;
 }</div>
 		</div>
 		<!-- /#page-wrapper -->
@@ -77,6 +77,11 @@
 	    var editor = ace.edit("ace-editor-container");
 	    editor.setTheme("ace/theme/monokai");
 	    editor.getSession().setMode("ace/mode/javascript");
+	    editor.setShowPrintMargin(false);
+
+	    $('#ace-editor-container').css({
+	    	'height' : $( window ).height() - $('#top-nav').height() - 1 + 'px',
+	    });
 	</script>
 
 </body>
