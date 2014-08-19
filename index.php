@@ -1,4 +1,5 @@
 <?php
+namespace App;
 /**
 * index.php
 */
@@ -27,9 +28,10 @@ app structure
 			fonts/
 
 */
-namespace App;
 
 require_once 'app/bootstrap.php';
+
+
 
 // root url: www.example.com
 $router->route('', function()
@@ -57,3 +59,4 @@ $router->route('blog/(\w+)/(\d+)', function($category, $id)
 
 // execute router
 $router->execute($_SERVER['REQUEST_URI']);
+?>

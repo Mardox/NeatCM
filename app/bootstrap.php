@@ -10,9 +10,12 @@
 */
 function __autoload($class)
 { 
-	if (file_exists($class . '.php'))
+
+	$class = array_reverse(explode('\\', $class))[0];
+
+	if (file_exists('app/' . $class . '.php'))
 	{ 
-		require $class . '.php' ; 
+		require_once 'app/' . $class . '.php' ; 
 	}
 }
 

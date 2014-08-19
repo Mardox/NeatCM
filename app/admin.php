@@ -48,19 +48,19 @@
 		<!-- Page Content -->
 		<div id="page-wrapper" class="editing">
 			<div class="row">
-				<div class="col-lg-9">
+				<div class="col-lg-10">
 					<div id="source-view">
 						<div id="ace-editor-container"><?php echo htmlspecialchars(file_get_contents('test_editor_content.php')); ?></div>
 					</div>
 					<!-- http://appbusinessclass.com/f/blueprint.php -->
 					<iframe id="page-view" src="about:blank"></iframe>
 				</div>
-				<div id="snippets" class="col-lg-3">
+				<div id="snippets" class="col-lg-2">
 					<h4>Views</h4>
 					<div class="form-group">
-						<div class="btn-group">
-							<button class="btn btn-lg btn-default" id="view-source">Source</button>
-							<button class="btn btn-lg btn-default" id="view-page">Page</button>
+						<div class="btn-group" data-toggle="buttons">
+							<button class="btn btn-default" id="view-source">Source</button>
+							<button class="btn btn-default" id="view-page">Page</button>
 						</div>
 					</div>
 					<h4>Blocks</h4>

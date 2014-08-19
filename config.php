@@ -11,9 +11,9 @@ return array(
 		'pdo' => array(
 			'driver'   => 'mysql',
 			'host'     => 'localhost',
-			'database' => 'neat',
-			'user'     => 'root',
-			'password' => '',
+			'database' => 'devlab13_neat',
+			'user'     => 'devlab13_neat',
+			'password' => 'kT!u5)p)U{},LchZKH',
 		),
 	),
 	

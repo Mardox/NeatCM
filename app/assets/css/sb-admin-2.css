@@ -37,8 +37,11 @@ body {
 }
 
 .navbar-top-links li a {
-    padding: 15px;
-    min-height: 50px;
+    padding: 9px;
+    min-height: 35px;
+}
+.navbar-brand {
+    padding: 7px;
 }
 
 .navbar-top-links .dropdown-menu li {
@@ -129,7 +132,7 @@ body {
         z-index: 1;
         position: absolute;
         width: 250px;
-        margin-top: 51px;
+        margin-top: 36px;
     }
 
     .navbar-top-links .dropdown-messages,
