@@ -34,7 +34,7 @@ require_once 'app/bootstrap.php';
 // root url: www.example.com
 $router->route('', function()
 {
-	echo 'root';
+	echo '<a href="admin">admin</a>';
 });
 
 // admin url: www.example.com/admin

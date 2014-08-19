@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"trafo",
+				"transform"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"borderra",
+				"border-bottom-left-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
 				"gre",
 				"seagreen"
 			],
@@ -62,10 +86,6 @@
 			[
 				"menus",
 				"MenusController"
-			],
-			[
-				"tran",
-				"transparent"
 			],
 			[
 				"index",
@@ -266,10 +286,6 @@
 			[
 				"mar",
 				"margin-bottom"
-			],
-			[
-				"border",
-				"border-left"
 			],
 			[
 				"bordol",
@@ -498,27 +514,125 @@
 			[
 				"font",
 				"font-weight"
-			],
-			[
-				"ro",
-				"rowspan	Attr"
-			],
-			[
-				"mea",
-				"meal_selection"
-			],
-			[
-				"meal",
-				"meal_selections"
-			],
-			[
-				"ITe",
-				"ItemType"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "config.php",
+			"settings":
+			{
+				"buffer_size": 314,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 775,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/admin.php",
+			"settings":
+			{
+				"buffer_size": 3154,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/assets/js/neat.dev.js",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Windows",
+				"name": "neat.dev.js"
+			}
+		},
+		{
+			"file": "test_editor_content.php",
+			"settings":
+			{
+				"buffer_size": 18738,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/assets/js/sb-admin-2.js",
+			"settings":
+			{
+				"buffer_size": 883,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/_partials/navigation.php",
+			"settings":
+			{
+				"buffer_size": 9494,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/assets/css/main.css",
+			"settings":
+			{
+				"buffer_size": 1335,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/assets/css/sb-admin-2.css",
+			"settings":
+			{
+				"buffer_size": 5517,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/bootstrap.php",
+			"settings":
+			{
+				"buffer_size": 495,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/DB.php",
+			"settings":
+			{
+				"buffer_size": 804,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Config.php",
+			"settings":
+			{
+				"buffer_size": 889,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Router.php",
+			"settings":
+			{
+				"buffer_size": 854,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/404.php",
+			"settings":
+			{
+				"buffer_size": 111,
+				"line_ending": "Windows",
+				"name": "404.php"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -768,6 +882,7 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/neat/app/test_editor_content.php",
 		"/C/wamp/www/neat/README.md",
 		"/C/wamp/www/base/app/sb-admin-2/index.html",
 		"/C/wamp/www/js/sb-admin-2/css/sb-admin-2.css",
@@ -894,12 +1009,11 @@
 		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1403938969/charliesheather.com/public_html/lab/windsong/app/config/site.php",
 		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1403936520/charliesheather.com/public_html/lab/windsong/app/views/site/_partials/header.blade.php",
 		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1404109624/charliesheather.com/public_html/lab/windsong/app/views/admin/pages/edit.blade.php",
-		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1403934341/charliesheather.com/public_html/lab/windsong/app/views/site/category.blade.php",
-		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1404198105/WindsongChimes/public_html/index.html"
+		"/C/users/charlie/appdata/local/temp/sublime-sftp-browse-1403934341/charliesheather.com/public_html/lab/windsong/app/views/site/category.blade.php"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -915,6 +1029,15 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"3px",
+			"</br",
+			"&amp;",
+			"&",
+			"&amp;",
+			"console.log",
+			"navbar-default",
+			"admin",
+			"base",
 			"//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/",
 			"ui",
 			"blog",
@@ -1033,16 +1156,7 @@
 			"->service",
 			"Menu::",
 			"type",
-			"->",
-			"user_id",
-			"this",
-			"deleted_at",
-			"first_meal_delivery",
-			"true",
-			" + ' '",
-			" + '\\n'",
-			"name",
-			"checked"
+			"->"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1077,8 +1191,455 @@
 	"groups":
 	[
 		{
+			"selected": 7,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2379,
+								2379
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/assets/js/neat.dev.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"auto_name": "neat.dev.js",
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "test_editor_content.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13853,
+								13853
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2940.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/assets/js/sb-admin-2.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								852,
+								852
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/_partials/navigation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6357,
+								6357
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/assets/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS3/CSS3.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/assets/css/sb-admin-2.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1698,
+								1704
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS3/CSS3.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1176.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/bootstrap.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								365,
+								365
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/DB.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/Config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/Router.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								498,
+								498
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/404.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"auto_name": "404.php",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1150,7 +1711,7 @@
 		[
 			[
 				"",
-				"C:\\wamp\\www\\neat\\Neat.sublime-project"
+				"C:\\wamp\\www\\perl\\comp315\\COMP315.sublime-project"
 			]
 		],
 		"width": 380.0

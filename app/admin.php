@@ -47,10 +47,62 @@
 
 		<!-- Page Content -->
 		<div id="page-wrapper" class="editing">
-<div id="ace-editor-container">function foo(items) {
-	var x = "All this is syntax highlighted";
-	return x;
-}</div>
+			<div class="row">
+				<div class="col-lg-9">
+					<div id="source-view">
+						<div id="ace-editor-container"><?php echo htmlspecialchars(file_get_contents('test_editor_content.php')); ?></div>
+					</div>
+					<!-- http://appbusinessclass.com/f/blueprint.php -->
+					<iframe id="page-view" src="about:blank"></iframe>
+				</div>
+				<div id="snippets" class="col-lg-3">
+					<h4>Views</h4>
+					<div class="form-group">
+						<div class="btn-group">
+							<button class="btn btn-lg btn-default" id="view-source">Source</button>
+							<button class="btn btn-lg btn-default" id="view-page">Page</button>
+						</div>
+					</div>
+					<h4>Blocks</h4>
+					<div class="block">
+						<div class="block-heading">Google Analytics</div>
+						<div class="block-body text-muted">
+							insert tracking code for google analyitics
+						</div>
+					</div>
+					<div class="block">
+						<div class="block-heading">Facebook Targeting</div>
+						<div class="block-body text-muted">
+							insert facebook targeting code
+						</div>
+					</div>
+					<div class="block">
+						<div class="block-heading">Inspectlet</div>
+						<div class="block-body text-muted">
+							insert inspeclet viewer code
+						</div>
+					</div>
+					<h4>Libraries</h4>
+					<div class="block">
+						<div class="block-heading">jQuery</div>
+						<div class="block-body text-muted">
+							import javascript jquery library
+						</div>
+					</div>
+					<div class="block">
+						<div class="block-heading">Bootstrap</div>
+						<div class="block-body text-muted">
+							import twitter boostrap library
+						</div>
+					</div>
+					<div class="block">
+						<div class="block-heading">Modernizer</div>
+						<div class="block-body text-muted">
+							import javascript modernizer library
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 		<!-- /#page-wrapper -->
 
@@ -70,19 +122,10 @@
     <!-- Custom Theme JavaScript -->
     <script src="<?php echo asset_dir() ?>js/sb-admin-2.js"></script>
 
-    <script src="//cdnjs.cloudflare.com/ajax/libs/ace/1.1.3/ace.js" type="text/javascript" charset="utf-8"></script>
+    <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/ace/1.1.3/ace.js" type="text/javascript" charset="utf-8"></script> -->
 
-
-	<script>
-	    var editor = ace.edit("ace-editor-container");
-	    editor.setTheme("ace/theme/monokai");
-	    editor.getSession().setMode("ace/mode/javascript");
-	    editor.setShowPrintMargin(false);
-
-	    $('#ace-editor-container').css({
-	    	'height' : $( window ).height() - $('#top-nav').height() - 1 + 'px',
-	    });
-	</script>
+    <script src="<?php echo asset_dir() ?>js/plugins/ace/ace.js"></script>
+    <script src="<?php echo asset_dir() ?>js/neat.dev.js"></script>
 
 </body>
 
